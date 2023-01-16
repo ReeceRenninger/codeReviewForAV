@@ -4,17 +4,17 @@ header {
 /* id selector */
 
 #manatee {
-    width: 500px;
+    width: 200px;
 }
 
 #bobcat {
-    width: 500px;
+    width: 200px;
 }
 
 #spoonbill {
-    width: 500px;
+    width: 200px;
 }
 
 body {
-    background-image: url(Images/swamp.jpg);
+    background-image: url('Images/swamp.jpg');
 }
