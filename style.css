@@ -4,15 +4,15 @@ header {
 /* id selector */
 
 #manatee {
-    width: 200px;
+    width: 400px;  
 }
 
 #bobcat {
-    width: 200px;
+    width: 400px;
 }
 
 #spoonbill {
-    width: 200px;
+    width: 400px;
 }
 
 body {
