@@ -1,5 +1,20 @@
-/* id selector */
-
 header {
     text-align: center;
+}
+/* id selector */
+
+#manatee {
+    width: 500px;
+}
+
+#bobcat {
+    width: 500px;
+}
+
+#spoonbill {
+    width: 500px;
+}
+
+body {
+    background-image: url(Images/swamp.jpg);
 }
