@@ -1,5 +1,12 @@
 header {
     text-align: center;
+    background-color: black;
+    color: white;
+    border-radius: 25px;
+    width: 500px;
+    margin-left: 550px;
+    border: 5px solid red;
+
 }
 /* id selector */
 
@@ -34,7 +41,7 @@ body {
 }
 
 .section {
-    color: red;
+    color: white;
     background-color: black;
     width: 420px;
     margin: px;
